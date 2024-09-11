@@ -43,8 +43,8 @@ pip install numpy matplotlib scipy numba
 1. 克隆该项目到本地：
 
 ```bash
-git clone https://github.com/yourusername/insulating-layer-piso-solver.git
-cd insulating-layer-piso-solver
+git clone https://github.com/sherlockyzd/Insulating_layer_PISO.git
+cd Insulating_layer_PISO
 ```
 
 2. 安装依赖库：
@@ -61,13 +61,7 @@ pip install numpy matplotlib scipy numba
 python NS_FVM.py
 ```
 
-1. 运行 [`solver.py`](./solver.py) 文件以求解 Navier-Stokes 方程并生成结果图像：
-
-```bash
-python solver.py
-```
-
-3. 生成的图像将保存在项目目录中，包括压力场分布图、速度场分布图和温度分布图等。
+2. 生成的图像将保存在项目目录中，包括压力场分布图、速度场分布图和温度分布图等。
 
 ## 示例输出
 
