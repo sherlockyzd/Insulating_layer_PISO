@@ -72,16 +72,34 @@ python solver.py
 ## 示例输出
 
 以下是一些示例输出图像：
+以下是一些示例输出图像：
 
-- [`Pressure.png`](./Pressure.png)：压力场分布图。
-- [`RadialMesh.png`](./RadialMesh.png)：径向网格的可视化。
-- [`Temperature.png`](./Temperature.png)：温度分布图。
-- [`VelocityQuiver.png`](./VelocityQuiver.png)：速度场矢量图。
-- [`XVelocity.png`](./XVelocity.png)：X方向速度场分布图。
-- [`YVelocity.png`](./YVelocity.png)：Y方向速度场分布图。
-- [`MassResidual.png`](./MassResidual.png): 质量残差图。
-- [`XvelocityResidual.png`](./XvelocityResidual.png): X方向速度残差图。
-- [`YvelocityResidual.png`](./YvelocityResidual.png): Y方向速度残差图。
+- 压力场分布图：
+  ![Pressure](./Pressure.png)
+  
+- 径向网格的可视化：
+  ![RadialMesh](./RadialMesh.png)
+  
+- 温度分布图：
+  ![Temperature](./Temperature.png)
+  
+- 速度场矢量图：
+  ![VelocityQuiver](./VelocityQuiver.png)
+  
+- X方向速度场分布图：
+  ![XVelocity](./XVelocity.png)
+  
+- Y方向速度场分布图：
+  ![YVelocity](./YVelocity.png)
+  
+- 质量残差图：
+  ![MassResidual](./MassResidual.png)
+  
+- X方向速度残差图：
+  ![XvelocityResidual](./XvelocityResidual.png)
+  
+- Y方向速度残差图：
+  ![YvelocityResidual](./YvelocityResidual.png)
 
 ## 贡献指南
 
